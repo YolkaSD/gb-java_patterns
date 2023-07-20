@@ -5,20 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78ca7d77-375d-40ee-93fa-682ce121d372" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/DeveloperDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/JuniorDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/MiddleDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/structural/decorator/SeniorDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioral/chain/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioral/chain/builder/NotifierBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioral/chain/notifier/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioral/chain/notifier/LogNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioral/chain/notifier/Notifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioral/chain/notifier/Priority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/behavioral/chain/notifier/SMSNotifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/BusinessCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/BusinessCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/builder/BusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/builder/BusinessCardBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/builder/LargeBusinessBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/builder/LargeBusinessBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/builder/builder/SmallBusinessCardBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/builder/builder/SmallBusinessCardBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/singleton/SimpleResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/creational/singleton/SimpleResource.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
