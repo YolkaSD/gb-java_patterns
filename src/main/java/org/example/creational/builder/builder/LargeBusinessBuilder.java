@@ -1,4 +1,4 @@
-package org.example.builder.builder;
+package org.example.creational.builder.builder;
 
 public class LargeBusinessBuilder extends BusinessCardBuilder {
     @Override

@@ -1,8 +1,8 @@
-package org.example.builder;
+package org.example.creational.builder;
 
-import org.example.builder.builder.BusinessCardBuilder;
-import org.example.builder.builder.LargeBusinessBuilder;
-import org.example.builder.builder.SmallBusinessCardBuilder;
+import org.example.creational.builder.builder.BusinessCardBuilder;
+import org.example.creational.builder.builder.LargeBusinessBuilder;
+import org.example.creational.builder.builder.SmallBusinessCardBuilder;
 
 public class Main {
     public static void main(String[] args) {

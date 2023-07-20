@@ -1,6 +1,6 @@
-package org.example.builder.builder;
+package org.example.creational.builder.builder;
 
-import org.example.builder.BusinessCard;
+import org.example.creational.builder.BusinessCard;
 
 public abstract class BusinessCardBuilder {
     private BusinessCard businessCard;
